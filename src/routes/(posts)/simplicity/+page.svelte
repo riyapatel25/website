@@ -1,7 +1,7 @@
 <svelte:head>
-	<title>Simplicity scarcity</title>
+	<title>Heat Tile Crack Detection Drone</title>
 </svelte:head>
-<h1>Simplicity scarcity</h1>
+<h1>Heat Tile Crack Detection Drone</h1>
 <div class="opacity-60 mb-8">Janurary 2023</div>
 <p>
 	Most people find complex things (products, thought pieces, etc.) more impressive than simple

@@ -5,11 +5,11 @@
 <div class="w-60 shrink-0 h-full">
 	<div class="list-none flex flex-col pt-10 sticky top-0">
 		<SidebarItem to="/">Home</SidebarItem>
-		<SidebarItem to="/startup-spark">How a startup loses its spark</SidebarItem>
-		<SidebarItem to="/ai-safety">My take on AI safety</SidebarItem>
-		<SidebarItem to="/simplicity">Simplicity scarcity</SidebarItem>
-		<SidebarItem to="/rnns">Why RNNs work</SidebarItem>
-		<SidebarItem to="/roast">We don't roast anymore</SidebarItem>
-		<SidebarItem to="/sf-paradox">SF's paradox</SidebarItem>
+		<SidebarItem to="/startup-spark">Internships</SidebarItem>
+		<SidebarItem to="/ai-safety">Waterloo</SidebarItem>
+		<SidebarItem to="/simplicity">Heat Tile Crack Detection Drone</SidebarItem>
+		<SidebarItem to="/rnns">Media</SidebarItem>
+		<SidebarItem to="/roast">Obsidian</SidebarItem>
+		<SidebarItem to="/sf-paradox">Medium</SidebarItem>
 	</div>
 </div>
