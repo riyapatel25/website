@@ -1,7 +1,7 @@
 <svelte:head>
-	<title>We don't roast anymore</title>
+	<title>Elphants are impressive</title>
 </svelte:head>
-<h1>We don't roast anymore</h1>
+<h1>Elphants are impressive</h1>
 <div class="opacity-60 mb-8">July 2021</div>
 <p>
 	In my high school, kids were brutally honest. Whenever I did something foolish, other kids would

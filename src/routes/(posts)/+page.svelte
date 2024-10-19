@@ -41,7 +41,7 @@
 </p>
 
 <p>
-	Feel free to reach out to me at <a
+	You can reach me at <a
 		href="mailto:riya.patel1@uwaterloo.ca">riya.patel1@uwaterloo.ca</a
 	>
 </p>
