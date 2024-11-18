@@ -52,8 +52,12 @@
 	<a target="_blank" rel="noreferrer" href="https://github.com/riyapatel25">
 		<img alt="github profile" src="github.svg" class="h-5 rounded-full hover:opacity-90" />
 	</a>
+		<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/riya-patel25/">
+		<img alt="linkedin profile" src="linkedin.svg" class="h-4 hover:opacity-90" />
+	</a>
 </div>
 
 {#if done}
 	<p class="mt-2 text-sm text-gray-500">Thank you!</p>
 {/if}
+
