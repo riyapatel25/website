@@ -21,8 +21,8 @@
     <strong>Upfront</strong><br />
     Fullstack SWE Intern<br />
     Sept 2023 - Dec 2023 | San Francisco, CA<br />
-    - Fullstack dev at <a href="https://forwardrebates.com/" class="text-blue-600 hover:text-blue-800">Y-Combinator</a> backed startup helping merchants lower out of pocket costs of clean energy products. From finding and handling incentives to offering financing, we provide merchants with the tools to always offer the best deal in town.<br />
-    - Built fullstack for Upfront Pay & Internal Servicing Portal for customers, and more!
+    Fullstack dev at <a href="https://forwardrebates.com/" class="text-blue-600 hover:text-blue-800">Y-Combinator backed startup</a> helping merchants lower out of pocket costs of clean energy products by finding/handling incentives to offering financing
+   
 </p>
 <p>
     <strong>Vivid Seats</strong><br />
